@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manssoum Mustapha</h1>
-<h3 align="center">I'm passionate about working with embedded systems and image processing</h3>
+<h3 align="center">I'm passionate about working data science, image processing and embedded systems</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
