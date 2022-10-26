@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mustapha manssoum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustapha manssoum" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mustapha-manssoum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustapha-manssoum" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/mustamanssoum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mustamanssoum" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mustapha_manss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mustapha_manss" height="30" width="40" /></a>
 <a href="https://discord.gg/Musta #2876" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Musta #2876" height="30" width="40" /></a>
