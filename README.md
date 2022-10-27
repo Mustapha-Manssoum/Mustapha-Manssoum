@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning more about **deep learning**
 
-- 👯 I’m looking to collaborate on a data science project as part of **my end-of-studies internship**
+- 👯 I’m looking to collaborate on a data science project as part of **my end of studies internship**
 
 - 💬 Ask me about **mathematics, physics, and computer science.**
 
 - Reach me via LinkedIn **https://www.linkedin.com/in/mustapha-manssoum-92453b1a9/**
 
-- ⚡ Fun fact **I love to sleep while listening to political an economical news**
+- ⚡ Fun fact **I love to sleep while listening to political and economical news**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
