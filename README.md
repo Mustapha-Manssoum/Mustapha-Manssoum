@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Manssoum Mustapha</h1>
 <h3 align="center">Just a great lover of science in general, data science and information processing in particular, I'm also an embedded systems enthusiast.</h3>
 
-- A final year undergraduate at **Télécom Saint-Etienne, France**
+- A graduate engineer from  **Télécom Saint-Etienne, France**
 
 - 🌱 I’m currently learning more about **deep learning**
-
-- 👯 I’m looking to collaborate on a data science project as part of **my end of studies internship**
 
 - 💬 Ask me about **mathematics, physics, and computer science.**
 
